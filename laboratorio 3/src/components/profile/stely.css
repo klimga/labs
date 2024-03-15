@@ -1,0 +1,23 @@
+section {
+ 
+    width: 300px; /* Ancho de la carta */
+    height: 400px; 
+    
+    margin: 20px; 
+    padding: 20px; 
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); 
+    background-color: #b1d7dc; 
+    border-radius: 16px;
+    font-family: "Arial", sans-serif;
+    font-size: 14.5px;
+  }
+img{
+  width: 100px; 
+  height: 100px;
+  border-radius: 16px;
+  border: 1px solid #000;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); 
+
+}
+
+  
